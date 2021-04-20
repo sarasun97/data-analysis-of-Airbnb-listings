@@ -12,7 +12,7 @@ To run the Juptyer Notebook, installation of Anaconda is recommended.
 [Install Anaconda](https://www.anaconda.com/products/individual#Downloads)
 
 ## Project Motivation
-This a a beginner project for the Udacity Data Science Nanodegree programm. I will discuss some questions that those who plan to travel to Boston and consider Airbnb would care about.
+This a my first project for the Udacity Data Science Nanodegree programm. I will briefly analyze three different areas (# of listings, price, and amenities) of listings on Airbnb using the CRISP-DM process.
 1. How many rooms are available in each of the communities? How many entire apartments and private rooms are there in each community?
 2. What are the differences between the amenities provided by the entire apartment and the private room?
 3. How much does one person have to pay in each community? Is an entire apartment more expensive?
@@ -31,8 +31,11 @@ A summary for the four business questions is as follow:
 ### Authors: 
 Sara Sun
 
-Blog post on this project can be checked on my medium platform [here](https://sarasun97.medium.com/what-should-i-expect-when-considering-different-room-types-on-airbnb-35b3115a6574)
+Blog post for this project can be found [here](https://sarasun97.medium.com/what-should-i-expect-when-considering-different-room-types-on-airbnb-35b3115a6574) on my medium platform
 ### Acknowledgements
 I have learned a lot from [Data Scientist Nanodegree Program](https://classroom.udacity.com)
+
 I downloaded the data from [Inside AirBnB](http://insideairbnb.com/get-the-data.html)
+
+I learned a lot from [Matheus Vasconcellos's project](https://github.com/matheusvclls/airbnb_buenos_aires) and [Siddharth Sabat's project](https://github.com/SiddharthSabat/Data-Science-and-ML-Portfolio/tree/main/Write%20a%20Data%20Science%20Blog%20Post)
 

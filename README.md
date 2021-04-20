@@ -1,5 +1,7 @@
 # data analysis of Airbnb listings
  Part of the Udacity Data Scientist Nano Degree Program
+ 
+ Blog post for this project can be found [here](https://sarasun97.medium.com/what-should-i-expect-when-considering-different-room-types-on-airbnb-35b3115a6574) on my medium platform
 ## Table of Contents
 1. Installation
 2. Project Motivation

@@ -12,7 +12,7 @@ To run the Juptyer Notebook, installation of Anaconda is recommended.
 [Install Anaconda](https://www.anaconda.com/products/individual#Downloads)
 
 ## Project Motivation
-This a my first project for the Udacity Data Science Nanodegree programm. I will briefly analyze three different areas (# of listings, price, and amenities) of listings on Airbnb using the CRISP-DM process.
+This is my first project for the Udacity Data Science Nanodegree program. I will briefly analyze three different areas (# of listings, price, and amenities) of listings on Airbnb using the CRISP-DM process.
 1. How many rooms are available in each of the communities? How many entire apartments and private rooms are there in each community?
 2. What are the differences between the amenities provided by the entire apartment and the private room?
 3. How much does one person have to pay in each community? Is an entire apartment more expensive?
